@@ -1,4 +1,3 @@
-```python
 import time
 i
 mport streamlit as st
